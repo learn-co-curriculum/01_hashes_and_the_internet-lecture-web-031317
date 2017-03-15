@@ -26,18 +26,8 @@ def display_book(book)
 end
 
 def display_books(books)
+  # Use the data in that hash to display some information about some books
   books.each do |book|
     display_book(book)
   end
 end
-
-# Make a request to the Google Books API
-
-
-
-
-
-
-
-
-# Use the data in that hash to display some information about some books

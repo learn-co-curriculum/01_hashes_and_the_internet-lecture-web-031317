@@ -1,7 +1,7 @@
 # 01_hashes_and_the_internet-lecture-web-031317
 
 ## Objectives
- - Pepare students for the Star Wars API lab parts they have not seen
+ - Pepare students for the parts of the Star Wars API lab they have not seen
  - Expose students to best practices (encapsulation in methods, single responsibility, debugging)
  
 ## Intro
